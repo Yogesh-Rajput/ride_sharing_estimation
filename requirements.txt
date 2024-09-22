@@ -3,3 +3,4 @@ numpy
 openpyxl
 networkx
 matplotlib
+seaborn
